@@ -8,7 +8,7 @@ In 2021, I shifted from marketing to focus fully on development. At EventMaker, 
 
 ### Technologies:
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"><img   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -58,7 +58,7 @@ In 2021, I shifted from marketing to focus fully on development. At EventMaker, 
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="webpack" width="40" height="40"/></a>
       <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/26492485?s=280&v=4" alt="webpack" width="40" height="40"/></a>
-</p>
+</p>-->
 
 
 
