@@ -2,9 +2,9 @@
 
 My name is Peter, and I am a frontend developer with over 2 years of experience.
 
-<!-- I first got interested in JavaScript in 2013, but initially worked as a technical project manager. In 2018, I dove into data analytics with Python and Pandas, which reignited my passion for frontend development.
+I enjoy diving into fundamentals to build an amazing stuff. 
 
-In 2021, I shifted from marketing to focus fully on development. At EventMaker, I worked with React, Ionic, and responsive design. My internship at Solace gave me hands-on experience with creating landing pages and Discord bots. I’m excited to join a dynamic team where I can make a difference and keep growing as a frontend developer.
+<!-- 
 
 ### Technologies:
 
