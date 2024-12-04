@@ -28,6 +28,8 @@ I enjoy diving into fundamentals to build an amazing stuff.
     <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://global.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_1016x1024.png" alt="threejs" width="40" height="40"/></a>
   <a href="https://gsap.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/></a>
     <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
@@ -47,10 +49,6 @@ I enjoy diving into fundamentals to build an amazing stuff.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-      <a href="https://ipfs.tech/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="webpack" width="40" height="40"/></a>
-      <a href="https://discord.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/26492485?s=280&v=4" alt="webpack" width="40" height="40"/></a>
 </p>
 
 
