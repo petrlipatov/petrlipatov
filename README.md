@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Petr, and I am a frontend developer with over 2 years of experience.
+My name is Petr, and I am a frontend developer with over 3 years of experience.
 
 I enjoy diving into fundamentals to build an amazing stuff. 
 
